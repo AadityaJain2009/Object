@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#header{
+    font-family: 'cookie' , cursive;
+
+    font-size: 48px;
+
+}
+
+body{
+    background-image: url(background-1.jpg);
+    background-size: cover;
+    background-position:center;
+}
+
+#line{
+    background-color: lightslategray;
+    height: 0.5;
+    width: 95%;
+}
+
+canvas{
+    box-shadow: 10px  10px  10px  lightslategray;
+    border-radius: 10px;
+}
